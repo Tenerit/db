@@ -1,10 +1,14 @@
-{
-  "posts": [
-    { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON"},
-    { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel}
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "posts": [
+      { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020" },
+      { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel" },
+      { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
   }
-}
-
