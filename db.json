@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 1,"NOM":"SEGUY", "CLASSE": "CUISSON", "geocodage_inter_x":"45.80881803", "geocodage_inter_y":"1.9946140" },
-    { "id": 2,"NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel", "geocodage_inter_x":"45.78908223" "geocodage_inter_y": "1.3086758"},
-    { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", "geocodage_inter_x":"45.78908223" "geocodage_inter_y": "1.3086758" },
-    { "id": 4, "NOM":"MARQUET", "CLASSE": "CUISSON", "geocodage_inter_x":"45.78908223" "geocodage_inter_y": "1.3086758" }
+    { "id": 1,"DATE_REP":"31/03/2020","NOM":"SEGUY", "CLASSE": "CUISSON","TEL":"0555679050" },
+    { "id": 2,"DATE_REP":"31/03/2020","NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel","TEL":"0555069717" },
+    { "id": 3,"DATE_REP":"31/03/2020", "NOM":"COULAUD", "CLASSE": "CUISSON", "TEL":"0555679050" },
+    { "id": 4,"DATE_REP":"31/03/2020", "NOM":"MARQUET", "CLASSE": "CUISSON","TEL":"0659827647"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
