@@ -8,15 +8,5 @@
     { "id": 6, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel", DATE_REP:"31/03/2020", "TEL":"0555774150" },
     { "id": 7, "NOM":"BROUILLAUD", "CLASSE": "LAVAGE", DATE_REP:"31/03/2020", "TEL":"0687616021" },
     { "id": 8, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel", DATE_REP:"31/03/2020", "TEL":"0555774150" },
-  ],
-  "profile": [    { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", DATE_REP:"31/03/2020", "TEL":"0555679050", "geocodage_inter": "45.8088180,1.9946140" },
-    { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel", DATE_REP:"31/03/2020", "TEL":"0555069717", "geocodage_inter":"45.7890822,1.3086758" },
-    { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", DATE_REP:"31/03/2020", "TEL":"0555679050" },
-    { "id": 4, "NOM":"MARQUET", "CLASSE": "CUISSON", DATE_REP:"31/03/2020", "TEL":"0659827647" },
-    { "id": 5, "NOM":"asp", "CLASSE": "CUISSON", DATE_REP:"31/03/2020", "TEL":"0680444215" },
-    { "id": 6, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel", DATE_REP:"31/03/2020", "TEL":"0555774150" },
-    { "id": 7, "NOM":"BROUILLAUD", "CLASSE": "LAVAGE", DATE_REP:"31/03/2020", "TEL":"0687616021" },
-    { "id": 8, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel", DATE_REP:"31/03/2020", "TEL":"0555774150" },
-             ]
-
+  ]
 }
