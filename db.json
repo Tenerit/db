@@ -2,7 +2,6 @@
   "posts": [
     { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020", "TEL":"0555679050"},
     { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel", "DATE_REP":"31/03/2020" ,"TEL":"0555069717"},
-    { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020", "TEL":"0555679050"},
   ],
   
   "profile": {
