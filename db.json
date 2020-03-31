@@ -9,6 +9,7 @@
       { "id": 7, "NOM":"BROUILLAUD", "CLASSE": "LAVAGE", "DATE_REP":"31/03/2020", "TEL":"0687616021" },
       { "id": 8, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel", "DATE_REP":"31/03/2020", "TEL":"0555774150" },
   ],
+  
   "profile": {
     "name": "typicode"
   }
