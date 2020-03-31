@@ -1,8 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "NOM":"SEGUY"},
-    { "id": 3, "NOM":"COULAUD" }
-  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
