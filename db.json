@@ -1,7 +1,7 @@
 {
   "posts": [
-     { "id": 1, "DATE_REP":"31/03/2020", "NOM":"SEGUY", "CLASSE": "CUISSON", "TEL":"0555679050"},
-    { "id": 2, "DATE_REP":"31/03/2020", "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel", "TEL":"0555069717"},
+     { "id": 1, "DATE_REP":"31/03/2020", "NOM":"SEGUY", "CLASSE": "CUISSON",},
+    { "id": 2, "DATE_REP":"31/03/2020", "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel"},
   ],
   "profile": {
     "name": "typicode"
