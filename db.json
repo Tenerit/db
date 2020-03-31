@@ -1,7 +1,12 @@
 {
   "posts": [
-     { "id": 1, "DATE_REP":"31/03/2020", "NOM":"SEGUY", "CLASSE": "CUISSON",},
-    { "id": 2, "DATE_REP":"31/03/2020", "NOM":"MCDONALDS BOISSEUIL", "CLASSE": "Lavage Professionnel"},
+    { "id": 1, "NOM":"SEGUY", },
+    { "id": 2, "NOM":"MCDONALDS BOISSEUIL" },
+    { "id": 3, "NOM":"COULAUD" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
