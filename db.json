@@ -1,16 +1,17 @@
-{
-  "posts": [
-    { "id": 1,"DATE_REP":"31/03/2020","NOM":"SEGUY", "CLASSE": "CUISSON","TEL":"0555679050" },
-    { "id": 2,"DATE_REP":"31/03/2020","NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel","TEL":"0555069717"},
-    { "id": 3,"DATE_REP":"31/03/2020","NOM":"COULAUD", "CLASSE": "CUISSON", "TEL":"0555679050", },
-
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "posts": [
+      { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"},
+      { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel"},
+      { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020" },
+      { "id": 4, "NOM":"MARQUET", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"},
+      { "id": 5, "NOM":"asp", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"},
+      { "id": 6, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel","DATE_REP":"31/03/2020"},
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
   }
-}
-
