@@ -1,10 +1,10 @@
 {
-  "comments": [
+  "posts": [
     { "id": 1, "NOM":"SEGUY"},
     { "id": 2, "NOM":"MCDONALDS BOISSEUIL"},
     { "id": 3, "NOM":"COULAUD"},
     { "id": 4, "NOM":"MARQUET"},
-    { "id": 5, "NOM":"asp"}
+    { "id": 5, "NOM":"asp"},
     { "id": 6, "NOM":"CINEMA LES ECRANS"},
     { "id": 7, "NOM":"BROUILLAUD"},
     { "id": 8, "NOM":"CINEMA LES ECRANS"},
