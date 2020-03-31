@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1,"DATE_REP":"31/03/2020","NOM":"SEGUY", "CLASSE": "CUISSON","TEL":"0555679050","X":"45.80881803", "Y":"1.9946140" },
-    { "id": 2,"DATE_REP":"31/03/2020","NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel","TEL":"0555069717", "X":"45.80881803", "Y":"1.9946140" },
-    { "id": 3,"DATE_REP":"31/03/2020","NOM":"COULAUD", "CLASSE": "CUISSON", "TEL":"0555679050", "X":"45.80881803", "Y":"1.9946140" },
+    { "id": 1,"DATE_REP":"31/03/2020","NOM":"SEGUY", "CLASSE": "CUISSON","TEL":"0555679050","X"="45.80881803", "Y"="1.9946140" },
+    { "id": 2,"DATE_REP":"31/03/2020","NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel","TEL":"0555069717", "X"="45.80881803", "Y"="1.9946140" },
+    { "id": 3,"DATE_REP":"31/03/2020","NOM":"COULAUD", "CLASSE": "CUISSON", "TEL":"0555679050", "X"="45.80881803", "Y"="1.9946140" },
 
   ],
   "comments": [
