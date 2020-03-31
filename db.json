@@ -1,7 +1,7 @@
 {
   "comments": [
     { "id": 1, "NOM":"SEGUY"},
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, "NOM":"MCDONALDS BOISSEUIL"}
   ],
   "profile": {
     "name": "typicode"
