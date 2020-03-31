@@ -1,12 +1,6 @@
   {
     "posts": [
-      { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"},
-      { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel", "DATE_REP":"31/03/2020"},
-      { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020" }
-      { "id": 4, "NOM":"MARQUET", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"}
-      { "id": 5, "NOM":"asp", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"}
-      { "id": 6, "NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel","DATE_REP":"31/03/2020"}
-      
+      { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"},      
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
