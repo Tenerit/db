@@ -1,7 +1,7 @@
   {
     "posts": [
-      { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020", "geocodage_inter_x" : "45.80881803", "geocodage_inter_y" : "1.9946140" },
-      { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel", "DATE_REP":"31/03/2020", "geocodage_inter_x" : "45.78908223" "geocodage_inter_y" : "1.3086758" },
+      { "id": 1, "NOM":"SEGUY", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020", "geocodage_inter_x" : "45.80881803", "geocodage_inter_y":"1.9946140" },
+      { "id": 2, "NOM":"MCDONALDS BOISSEUIL", "CLASSE" : "Lavage Professionnel", "DATE_REP":"31/03/2020", "geocodage_inter_x" : "45.78908223" "geocodage_inter_y":"1.3086758" },
       { "id": 3, "NOM":"COULAUD", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020" }
       { "id": 4, "NOM":"MARQUET", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"}
       { "id": 5, "NOM":"asp", "CLASSE": "CUISSON", "DATE_REP":"31/03/2020"}
