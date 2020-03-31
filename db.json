@@ -5,6 +5,7 @@
     { "id": 3,"DATE_REP":"31/03/2020","NOM":"COULAUD", "CLASSE": "CUISSON", "TEL":"0555679050" },
     { "id": 4,"DATE_REP":"31/03/2020","NOM":"MARQUET", "CLASSE": "CUISSON","TEL":"0659827647"},
     { "id": 5,"DATE_REP":"31/03/2020","NOM":"asp", "CLASSE": "CUISSON", "TEL":"0680444215"},
+    { "id": 6,"DATE_REP":"31/03/2020","NOM":"CINEMA LES ECRANS", "CLASSE": "Froid Professionnel","TEL":"0687616021"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
